@@ -1,0 +1,16 @@
+/home/sajjanakash18/Desktop/ba/obj/Debug/net5.0/ba.csprojAssemblyReference.cache
+/home/sajjanakash18/Desktop/ba/obj/Debug/net5.0/ba.GeneratedMSBuildEditorConfig.editorconfig
+/home/sajjanakash18/Desktop/ba/obj/Debug/net5.0/ba.AssemblyInfoInputs.cache
+/home/sajjanakash18/Desktop/ba/obj/Debug/net5.0/ba.AssemblyInfo.cs
+/home/sajjanakash18/Desktop/ba/obj/Debug/net5.0/ba.csproj.CoreCompileInputs.cache
+/home/sajjanakash18/Desktop/ba/bin/Debug/net5.0/ba
+/home/sajjanakash18/Desktop/ba/bin/Debug/net5.0/ba.deps.json
+/home/sajjanakash18/Desktop/ba/bin/Debug/net5.0/ba.runtimeconfig.json
+/home/sajjanakash18/Desktop/ba/bin/Debug/net5.0/ba.runtimeconfig.dev.json
+/home/sajjanakash18/Desktop/ba/bin/Debug/net5.0/ba.dll
+/home/sajjanakash18/Desktop/ba/bin/Debug/net5.0/ref/ba.dll
+/home/sajjanakash18/Desktop/ba/bin/Debug/net5.0/ba.pdb
+/home/sajjanakash18/Desktop/ba/obj/Debug/net5.0/ba.dll
+/home/sajjanakash18/Desktop/ba/obj/Debug/net5.0/ref/ba.dll
+/home/sajjanakash18/Desktop/ba/obj/Debug/net5.0/ba.pdb
+/home/sajjanakash18/Desktop/ba/obj/Debug/net5.0/ba.genruntimeconfig.cache
